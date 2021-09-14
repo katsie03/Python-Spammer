@@ -1,6 +1,6 @@
 # what is this lol
 
-This was a python clinet made way back in 2018 lol. It works with gmail as long as you allow 3rd party clinets to access your acc (can be enabled in google account settings), you can use it with other services if you know the smtp settings. 
+This was a python clients made way back in 2018 lol. It works with gmail as long as you allow 3rd party clients to access your acc (can be enabled in google account settings), you can use it with other services if you know the smtp settings. 
 
 # Disclaimer
 
